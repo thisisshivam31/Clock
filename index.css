@@ -23,7 +23,7 @@ body{
 /*for main heading aksingh css code start*/
 .logo_name_of_school_on_top{
   width: 100%;
-  height: 20%;
+  height: 10%;
 }
 
 /*for main heading aksingh_logo_name_area*/
@@ -56,6 +56,7 @@ body{
   font-size:4vw;
   text-align: center;
   color: red;
+  margin-top: 5%;
 }
 /*/////////////////////////////////////*/
 
@@ -361,8 +362,8 @@ body{
 }
 .fa{
   font-size: 40px;
-  padding: 12px;
-  width: 110px;
+  padding: 10px;
+  width: 80px;
   text-decoration: none;
   margin: 10px;
   border-radius: 5px;
