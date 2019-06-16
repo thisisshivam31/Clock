@@ -58,7 +58,8 @@ body{
 
 
 
-/*for all top link*/
+/*////////////////////////////////////////*/
+/*for all top link css code css code start*/
 .menu{
   background-color: #333333;
   text-align: center;
@@ -76,24 +77,19 @@ body{
   color: red;
 }
 
-
-.menu .et{
-  
+.menu .admission{
   width: 100px;
   height: 100px;
   background-color: red;
- 
-  /* Standard syntax */
   animation-name: example;
   animation-duration: 1s;
   animation-timing-function: linear;
   animation-delay: 1s;
   animation-iteration-count: infinite;
   animation-direction: alternate;
-
 }
 
-/* Standard syntax */
+/*key frame for admission blinking*/
 @keyframes example {
   0%   {background-color:yellow;}
   10%  {background-color:red;}
@@ -107,6 +103,7 @@ body{
   90%  {background-color:red;}
   100% {background-color:blue; }
 }
+/*////////////////////////////////////////*/
 
 
 
